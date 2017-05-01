@@ -36,10 +36,8 @@ Le guide est séparé en plusieurs sections de règles associées. J'ai essayé 
 la raison d'être des règles (si elle est omise, j'ai supposé qu'elle est assez
 évidente).
 
-I didn't come up with all the rules out of nowhere - they are mostly based on my
-extensive career as a professional software engineer, feedback and suggestions
-from members of the Rails community and various highly regarded Rails
-programming resources.
+Je n'ai pas trouvé toutes les règles de nul part - elles sont principalement basées sur ma vaste 
+carrière en tant qu'ingénieur logiciel professionnel, des commentaires et suggestions des membres de la communauté Rails, et de diverses ressources de programmation Rails estimées.
 
 ## Table of Contents
 
