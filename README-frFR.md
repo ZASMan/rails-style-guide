@@ -13,18 +13,18 @@ Certains parties des conseils ne s'appliquent qu'à Rails 4.0+.
 Vous pouvez générer une copie PDF ou HTML de ce guide en utilisant
 [Pandoc](http://pandoc.org/).
 
-Translations of the guide are available in the following languages:
+Des traductions de ce guide sont disponibles dans les langues suivantes :
 
-* [Chinese Simplified](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [Chinese Traditional](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhTW.md)
-* [German](https://github.com/arbox/de-rails-style-guide/blob/master/README-deDE.md)
-* [Japanese](https://github.com/satour/rails-style-guide/blob/master/README-jaJA.md)
-* [Russian](https://github.com/arbox/rails-style-guide/blob/master/README-ruRU.md)
-* [Turkish](https://github.com/tolgaavci/rails-style-guide/blob/master/README-trTR.md)
-* [Korean](https://github.com/pureugong/rails-style-guide/blob/master/README-koKR.md)
-* [Vietnamese](https://github.com/CQBinh/rails-style-guide/blob/master/README-viVN.md)
+* [Chinois simplifié](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
+* [Chinois traditionnel](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhTW.md)
+* [Allemand](https://github.com/arbox/de-rails-style-guide/blob/master/README-deDE.md)
+* [Japonais](https://github.com/satour/rails-style-guide/blob/master/README-jaJA.md)
+* [Russe](https://github.com/arbox/rails-style-guide/blob/master/README-ruRU.md)
+* [Turc](https://github.com/tolgaavci/rails-style-guide/blob/master/README-trTR.md)
+* [Coréen](https://github.com/pureugong/rails-style-guide/blob/master/README-koKR.md)
+* [Vietnamien](https://github.com/CQBinh/rails-style-guide/blob/master/README-viVN.md)
 
-# The Rails Style Guide
+# Le Guide de Style Rails
 
 This Rails style guide recommends best practices so that real-world Rails
 programmers can write code that can be maintained by other real-world Rails
