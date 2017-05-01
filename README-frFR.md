@@ -26,12 +26,10 @@ Des traductions de ce guide sont disponibles dans les langues suivantes :
 
 # Le Guide de Style Rails
 
-This Rails style guide recommends best practices so that real-world Rails
-programmers can write code that can be maintained by other real-world Rails
-programmers. A style guide that reflects real-world usage gets used, and a
-style guide that holds to an ideal that has been rejected by the people it
-is supposed to help risks not getting used at all &ndash; no matter how good
-it is.
+Ce guide de style Rails recommande les meilleures pratiques pour les vrais programmeurs 
+Rails puissent écrire un code qui peut être maintenu par d'autres programmurs Rails réels. 
+Un guide de style qui reflète l'utilisation du monde réel s'utilise, 
+et un guide de style qui tient à un idéal risque de ne pas s'utiliser du tout - peu importe la qualité.
 
 The guide is separated into several sections of related rules. I've tried to add
 the rationale behind the rules (if it's omitted I've assumed it's pretty
