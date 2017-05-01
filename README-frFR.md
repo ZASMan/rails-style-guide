@@ -39,7 +39,7 @@ la raison d'être des règles (si elle est omise, j'ai supposé qu'elle est asse
 Je n'ai pas trouvé toutes les règles de nul part - elles sont principalement basées sur ma vaste 
 carrière en tant qu'ingénieur logiciel professionnel, des commentaires et suggestions des membres de la communauté Rails, et de diverses ressources de programmation Rails estimées.
 
-## Table of Contents
+## Table des matières
 
 * [Configuration](#configuration)
 * [Routing](#routing)
