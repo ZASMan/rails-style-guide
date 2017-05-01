@@ -1,16 +1,16 @@
-# Prelude
+# Préambule
 
-> Role models are important. <br/>
+> Les modèles sont importants. <br/>
 > -- Officer Alex J. Murphy / RoboCop
 
-The goal of this guide is to present a set of best practices and style
-prescriptions for Ruby on Rails 4 development. It's a
-complementary guide to the already existing community-driven
-[Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide).
+L'objectif de ce guide est de présenter un ensemble de meilleures pratiques
+et prescriptions stylistiques pour le developpment en Ruby on Rails 4. C'est un guide
+complementaire pour pour le guide communautaire existant
+[Ruby coding style guide](https://github.com/gauthier-delacroix/ruby-style-guide/blob/master/README-frFR.md).
 
-Some of the advice here is applicable only to Rails 4.0+.
+Certains parties des conseils ne s'appliquent qu'à Rails 4.0+.
 
-You can generate a PDF or an HTML copy of this guide using
+Vous pouvez générer une copie PDF ou HTML de ce guide en utilisant
 [Pandoc](http://pandoc.org/).
 
 Translations of the guide are available in the following languages:
